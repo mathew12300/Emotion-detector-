@@ -153,6 +153,5 @@ This project is licensed under the MIT License.
 * TensorFlow and Keras libraries for deep learning framework.
 * Public datasets and inspiration from facial expression recognition research.
 
----
 
-Would you like me to help generate this in markdown format for your `README.md` file?
+
