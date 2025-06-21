@@ -8,7 +8,7 @@ This project is an **Emotion Detection System** built using Python and Convoluti
 The system uses grayscale face images to train a CNN model, then predicts emotions such as Angry, Happy, Sad, etc., providing a practical tool for emotion recognition useful in areas like user experience, healthcare, and human-computer interaction.
 
 ---
-
+# (check.py is optional )
 ## **Features**
 
 1. **Real-Time Emotion Detection:**
